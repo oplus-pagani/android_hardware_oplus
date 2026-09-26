@@ -1,1 +1,2 @@
-allow vendor_poweroffalarm_app mnt_vendor_file:dir search;
+# Pagani does not include a vendor_poweroffalarm_app domain in vendor policy.
+# Keep this file as a placeholder instead of emitting an allow for an unknown type.
